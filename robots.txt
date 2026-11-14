@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://misahorros-8uq.pages.dev/sitemap.xml
